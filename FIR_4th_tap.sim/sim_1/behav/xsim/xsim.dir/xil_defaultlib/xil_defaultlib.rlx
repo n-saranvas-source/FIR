@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sim_1/new/fir_tb3.v,1727681173,verilog,,,,fir_tb3,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/ADD.v,1727679692,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/fir_controller.v,,ADD,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/fir_controller.v,1727681043,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/fir_datapath.v,,fir_controller,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/fir_datapath.v,1727681178,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/multi.v,,fir_datapath,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/multi.v,1727679600,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/pipo.v,,multi,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/pipo.v,1727679489,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/pipo2.v,,pipo,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/pipo2.v,1727679689,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/regbank.v,,pipo2,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sources_1/new/regbank.v,1727681176,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/FIR_4th_tap/FIR_4th_tap.srcs/sim_1/new/fir_tb3.v,,reg_bank_shift,,,,,,,,

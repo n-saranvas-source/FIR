@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FIR_4th_tap.srcs/sources_1/new/ADD.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/fir_controller.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/fir_datapath.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/multi.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/pipo.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/pipo2.v" \
+"../../../../FIR_4th_tap.srcs/sources_1/new/regbank.v" \
+"../../../../FIR_4th_tap.srcs/sim_1/new/fir_tb3.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
